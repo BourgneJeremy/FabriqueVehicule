@@ -1,0 +1,13 @@
+C:\Users\Jere-\source\repos\FabriqueDeVehicules\FabriqueDeVehicules\bin\Debug\netcoreapp3.1\FabriqueDeVehicules.exe
+C:\Users\Jere-\source\repos\FabriqueDeVehicules\FabriqueDeVehicules\bin\Debug\netcoreapp3.1\FabriqueDeVehicules.deps.json
+C:\Users\Jere-\source\repos\FabriqueDeVehicules\FabriqueDeVehicules\bin\Debug\netcoreapp3.1\FabriqueDeVehicules.runtimeconfig.json
+C:\Users\Jere-\source\repos\FabriqueDeVehicules\FabriqueDeVehicules\bin\Debug\netcoreapp3.1\FabriqueDeVehicules.runtimeconfig.dev.json
+C:\Users\Jere-\source\repos\FabriqueDeVehicules\FabriqueDeVehicules\bin\Debug\netcoreapp3.1\FabriqueDeVehicules.dll
+C:\Users\Jere-\source\repos\FabriqueDeVehicules\FabriqueDeVehicules\bin\Debug\netcoreapp3.1\FabriqueDeVehicules.pdb
+C:\Users\Jere-\source\repos\FabriqueDeVehicules\FabriqueDeVehicules\obj\Debug\netcoreapp3.1\FabriqueDeVehicules.csprojAssemblyReference.cache
+C:\Users\Jere-\source\repos\FabriqueDeVehicules\FabriqueDeVehicules\obj\Debug\netcoreapp3.1\FabriqueDeVehicules.AssemblyInfoInputs.cache
+C:\Users\Jere-\source\repos\FabriqueDeVehicules\FabriqueDeVehicules\obj\Debug\netcoreapp3.1\FabriqueDeVehicules.AssemblyInfo.cs
+C:\Users\Jere-\source\repos\FabriqueDeVehicules\FabriqueDeVehicules\obj\Debug\netcoreapp3.1\FabriqueDeVehicules.csproj.CoreCompileInputs.cache
+C:\Users\Jere-\source\repos\FabriqueDeVehicules\FabriqueDeVehicules\obj\Debug\netcoreapp3.1\FabriqueDeVehicules.dll
+C:\Users\Jere-\source\repos\FabriqueDeVehicules\FabriqueDeVehicules\obj\Debug\netcoreapp3.1\FabriqueDeVehicules.pdb
+C:\Users\Jere-\source\repos\FabriqueDeVehicules\FabriqueDeVehicules\obj\Debug\netcoreapp3.1\FabriqueDeVehicules.genruntimeconfig.cache
